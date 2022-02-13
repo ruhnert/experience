@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Verdana;
   text-align: center;
   color: white;
@@ -28,11 +28,10 @@ h2 {
 p {
   color: grey;
   font-size: 21px;
-
 }
 
 footer {
-  padding: 20px;
+  text-align: right;
 }
 
 .cta {
